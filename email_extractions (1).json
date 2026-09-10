@@ -1,0 +1,69 @@
+[
+  {
+    "sender_name": "Marcus Rivera",
+    "sender_email": "m.rivera@northstar.io",
+    "sender_company": "Northstar Logistics",
+    "subject": "Interested in your enterprise plan",
+    "is_reply": false,
+    "mentioned_dates": [
+      "2025-04-01"
+    ],
+    "mentioned_dollar_amounts": [
+      85000.0
+    ],
+    "questions_asked": [
+      "What's included in the enterprise tier?",
+      "Can we schedule a demo next week?"
+    ],
+    "requested_actions": [
+      "Schedule a demo next week"
+    ]
+  },
+  {
+    "sender_name": null,
+    "sender_email": "jenny@example.com",
+    "sender_company": null,
+    "subject": "Fwd: Re: Fwd: pricing",
+    "is_reply": true,
+    "mentioned_dates": [
+      "2024-12-15"
+    ],
+    "mentioned_dollar_amounts": [],
+    "questions_asked": [
+      "can you get back to me by 12/15?"
+    ],
+    "requested_actions": [
+      "Get back to the sender by 2024-12-15"
+    ]
+  },
+  {
+    "sender_name": "David Okafor",
+    "sender_email": "d.okafor@meridian-health.org",
+    "sender_company": "Meridian Health",
+    "subject": "Following up",
+    "is_reply": false,
+    "mentioned_dates": [],
+    "mentioned_dollar_amounts": [
+      12500.0,
+      9800.0,
+      15000.0
+    ],
+    "questions_asked": [],
+    "requested_actions": []
+  },
+  {
+    "sender_name": "Priya",
+    "sender_email": "priya.s@bluetechlabs.com",
+    "sender_company": "bluetechlabs.com",
+    "subject": "Re: Contract terms",
+    "is_reply": true,
+    "mentioned_dates": [
+      "2025-02-28"
+    ],
+    "mentioned_dollar_amounts": [],
+    "questions_asked": [
+      "Can we change that to 60 days notice?"
+    ],
+    "requested_actions": []
+  }
+]
